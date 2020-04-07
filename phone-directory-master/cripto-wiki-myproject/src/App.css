@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+#inpt {
+  width: 25%;
+  margin-right: 10px;
+}
+#btn {
+  background-color: #00ff99;
+  border: solid #00ff99;
+  border-radius: 5px;
+}
+#frame {
+  margin-top: 10px;
+  background-color: #009999;
+  height: 25px;
+}
+#frame1 {
+  float: left;
+  background-color: #99ffff;
+  height: 180px;
+  width: 180px;
+  border: solid;
+}
+#frame3 {
+  background-color: #99ffff;
+  margin-top: 180px;
+  width: 180px;
+  height: 300px;
+  border: solid;
+}
+#frame2 {
+  float: right;
+  background-color: #99ffff;
+  width: 1180px;
+  height: 500px;
+}
+#detailOfCoins {
+  margin-top: 60px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
